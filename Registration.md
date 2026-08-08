@@ -5,4 +5,5 @@ Students can register using:
 - Name
 - Email
 - Phone
-- Password 
+- Password
+- Location
