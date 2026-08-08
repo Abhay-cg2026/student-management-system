@@ -1,5 +1,5 @@
 #Student can login using :
 
-- Username
+- Username / Mobile No.
 - Passeword
-- Mobile No.
+
